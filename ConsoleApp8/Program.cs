@@ -6,7 +6,7 @@ namespace Application
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter your name: ");
+            Console.Write("Some changes: ");
             var name = Console.ReadLine();
             Console.WriteLine("Hello, " + name);
         }
