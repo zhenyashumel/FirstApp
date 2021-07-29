@@ -1,0 +1,16 @@
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.exe
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.deps.json
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.runtimeconfig.json
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.dll
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ref\ConsoleApp8.dll
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.pdb
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.dll
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ref\ConsoleApp8.dll
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.pdb
+C:\Users\Zhenya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.genruntimeconfig.cache
